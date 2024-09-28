@@ -1,6 +1,7 @@
 🙋‍♀️💻💕
 
-[<img width="1512" alt="image" src="https://github.com/user-attachments/assets/e0b6db1e-ea22-4c3e-9ab7-26a1b29528aa">](https://www.rosebowenvisuals.com)
+[<img width="1230" alt="image" src="https://github.com/user-attachments/assets/d65c2fba-d0f2-4ff4-aca1-bc51a5d6637a">
+](https://www.rosebowenvisuals.com)
 
 
 <!--
