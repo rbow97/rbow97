@@ -1,4 +1,4 @@
-## 🙋‍♀️💻💕
+🙋‍♀️💻💕
 
 [<img width="1512" alt="image" src="https://github.com/user-attachments/assets/e0b6db1e-ea22-4c3e-9ab7-26a1b29528aa">](https://www.rosebowenvisuals.com)
 
