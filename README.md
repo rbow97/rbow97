@@ -17,6 +17,7 @@ engaging and interactive projects.
 - JavaScript
 - TypeScript
 - React
+- Next.js
 - Astro
 - TailwindCSS
 
