@@ -15,9 +15,9 @@ engaging and interactive projects.
 ### ⭐️ Skills
 - Modern responsive CSS
 - JavaScript
-- Typescript
+- TypeScript
 - React
-- Astrojs
+- Astro
 - TailwindCSS
 
 <!--
