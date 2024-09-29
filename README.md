@@ -1,8 +1,24 @@
-🙋‍♀️💻💕
+### Rose Bowen 🙋‍♀️💻💕
 
-[<img width="1230" alt="image" src="https://github.com/user-attachments/assets/d65c2fba-d0f2-4ff4-aca1-bc51a5d6637a">
-](https://www.rosebowenvisuals.com)
+I'm a Frontend Developer specialising in React, Next.js and TailwindCSS. I have a passion for collaborating
+with designers to develop imaginative ideas into exciting user experiences. My interests lie in building visually
+engaging and interactive projects.
 
+[`🌐 rosebowenvisuals`](https://maximousblk.me/)
+[`📬 rosebowen1997@gmail.com`](mailto:rosebowen1997@gmail.com)
+
+### 🤩 About me
+- 📍 Based in: London, UK
+- 😄 Pronouns: she/her
+- 🌱 I’m currently learning: GSAP and Rive
+
+### ⭐️ Skills
+- Modern responsive CSS
+- JavaScript
+- Typescript
+- React
+- Astrojs
+- TailwindCSS
 
 <!--
 **rbow97/rbow97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
