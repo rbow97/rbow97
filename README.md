@@ -4,7 +4,7 @@ I'm a Frontend Developer specialising in React, Next.js and TailwindCSS. I have 
 with designers to develop imaginative ideas into exciting user experiences. My interests lie in building visually
 engaging and interactive projects.
 
-[`🌐 rosebowenvisuals`](https://maximousblk.me/)
+[`🌐 rosebowenvisuals`](https://rosebowenvisuals.com)
 [`📬 rosebowen1997@gmail.com`](mailto:rosebowen1997@gmail.com)
 
 ### 🤩 About me
