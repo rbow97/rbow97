@@ -1,6 +1,6 @@
 ### Rose Bowen 🙋‍♀️💻💕
 
-I'm a Frontend Developer specialising in React, Next.js and TailwindCSS. I have a passion for collaborating
+I'm a Frontend Developer with a passion for collaborating
 with designers to develop imaginative ideas into exciting user experiences. My interests lie in building visually
 engaging and interactive projects.
 
@@ -10,7 +10,7 @@ engaging and interactive projects.
 ### 🤩 About me
 - 📍 Based in: London, UK
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning: GSAP and Rive
+- 🌱 I’m currently learning: Svelte and Sveltekit
 
 ### ⭐️ Skills
 - Modern responsive CSS
