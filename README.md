@@ -10,16 +10,6 @@ engaging and interactive projects.
 ### 🤩 About me
 - 📍 Based in: London, UK
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning: Svelte and Sveltekit
-
-### ⭐️ Skills
-- Modern responsive CSS
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Astro
-- TailwindCSS
 
 <!--
 **rbow97/rbow97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
