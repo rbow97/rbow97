@@ -1,8 +1,6 @@
 ### Rose Bowen 🙋‍♀️💻💕
 
-I'm a Frontend Developer with a passion for collaborating
-with designers to develop imaginative ideas into exciting user experiences. My interests lie in building visually
-engaging and interactive projects.
+frontend developer!
 
 [`🌐 rosebowenvisuals`](https://rosebowenvisuals.com)
 [`📬 rosebowen1997@gmail.com`](mailto:rosebowen1997@gmail.com)
